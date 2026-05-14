@@ -1,4 +1,5 @@
-()
+(Self-hosted)
+Start with wsl terminal then follow below steps;
 
 < > @DESKTOP-LU8A4V6:cd ~/actions-runner
 < > @DESKTOP-LU8A4V6:~/actions-runner$ ./run.sh
