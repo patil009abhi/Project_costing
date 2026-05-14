@@ -1,5 +1,7 @@
-akshay_patil@DESKTOP-LU8A4V6:cd ~/actions-runner
-akshay_patil@DESKTOP-LU8A4V6:~/actions-runner$ ./run.sh
+()
+
+< > @DESKTOP-LU8A4V6:cd ~/actions-runner
+< > @DESKTOP-LU8A4V6:~/actions-runner$ ./run.sh
 
 √ Connected to GitHub
 
