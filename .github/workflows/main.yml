@@ -3,11 +3,11 @@ name: CI-CD Pipeline
 on:
   push:
     branches:
-      - main
+      - 
 
 jobs:
   deploy:
-    runs-on: self-hosted
+    runs-on: 
 
     steps:
       - name: Checkout code
