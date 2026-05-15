@@ -1,12 +1,1 @@
-(Self-hosted)
-Start with wsl terminal then follow below steps;
 
-< > @DESKTOP-LU8A4V6:cd ~/actions-runner
-< > @DESKTOP-LU8A4V6:~/actions-runner$ ./run.sh
-
-√ Connected to GitHub
-
-Current runner version: '2.334.0'
-2026-05-12 13:57:29Z: Listening for Jobs
-2026-05-12 13:59:15Z: Running job: deploy
-2026-05-12 14:01:38Z: Job deploy completed with result: Succeeded
